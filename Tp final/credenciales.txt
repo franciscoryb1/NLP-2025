@@ -1,0 +1,8 @@
+neo4j
+piB3JPnFZMqCc8IKp0HTsvB1XFG5kPTEoMkb9-xDnWk
+
+Instance id: 8fedfef4
+uri = "neo4j+s://8fedfef4.databases.neo4j.io"
+
+gemini api key
+AIzaSyDkWGT9jmqDHYysP4p7jE6XuMQM0onNdns
